@@ -37,7 +37,7 @@ if (vek <= 6) {
 cena = Math.round(cena);
 document.body.innerHTML = `<h2>Cena vstupenky: ${cena} €</h2>`;
 */
-/*
+
 const jmeno = prompt("Zadej své křestní jméno bez diakritiky:");
 const prijmeni = prompt("Zadej své příjmení bez diakritiky:");
 
@@ -50,7 +50,8 @@ const znakyPrijmeni = upravenePrijmeni.slice(0, 5);
 const email = `${znakyPrijmeni}${znakyJmeno}@fit.com`;
 
 document.body.innerHTML = `<h2>Vaše e-mailová adresa: ${email}</h2>`;
-*/
+
+/*
 const pocetTricek = prompt("Zadejte požadovaný počet trik:");
     let cenaTrika;
 
@@ -72,4 +73,4 @@ document.body.innerHTML += `<h2>Cena vaší objednávky je: ${celkovaCena} Kč.
  Počet objednaných triček je: ${pocetTricek}</h2>`;
 
 
-
+*/
